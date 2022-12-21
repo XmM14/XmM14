@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @XmM14. You can refer me Zemam!
-- 👀 I’m interested in Satoshi Nakamoto
-- 🌱 I’m currently learning Sofrware Development
-- 💞️ I’m looking to collaborate on Open Sources
-- 📫 How to reach me wzfnafis@gmail.com
+- 👋 Hi, I’m **XmM14**. You can refer me **Zemam**!
+- 👀 I’m interested in *[Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto "Group of people invented Bitcoin")*...
+- 🌱 I’m currently learning [Data Structure](https://en.wikipedia.org/wiki/Data_structure) & [Algorithm](https://en.wikipedia.org/wiki/Algorithm)...         
+- 💞️ I’m looking to collaborate on any [Open Sources systems](https://en.wikipedia.org/wiki/Open-source_software)..
+- 📫 How to reach me
+    - Email 
+ > Personal : <wzfnafis@gmail.com>
+ > Official : <110downingstreet@gmail.com>
+       
+
 
 <!---
 XmM14/XmM14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
