@@ -8,7 +8,7 @@
 
 ## 🚀 Backend Developer & Security Enthusiast
 
-- 🟢 Building lightning-fast ASGI server applications with Python.
+- 🟢 Building lightning-fast asynchronous server applications served by Uvicorn(an ASGI server program) using Python’s FastAPI framework.
 - 🛡️ Exploring cybersecurity: ethical hacking, penetration testing, and secure software design.
 - 🌱 Learning to improve belief, grow skills, and challenge boundaries.
 
