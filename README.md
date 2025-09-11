@@ -14,6 +14,15 @@
 
 ---
 
+## 👨‍💻 Open Source Contributions
+
+- Proud contributor to projects maintained by **Kludex**, including [Uvicorn](https://github.com/encode/uvicorn) and [Starlette](https://github.com/encode/starlette).
+- Activity includes contributions to [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai), [pydantic/logfire](https://github.com/pydantic/logfire), Kludex/starlette, and many more.
+
+![image1](image1)
+
+---
+
 ## 🌟 Featured Projects
 <a href="https://github.com/XmM14/XmM14.github.io"><img src="https://img.shields.io/badge/-Personal%20Portfolio%20Website-gray?style=flat&logo=github" /></a>
 <a href="https://github.com/XmM14/Salat-Watch-Bangladesh"><img src="https://img.shields.io/badge/-Prayer%20Watch-gray?style=flat&logo=github" /></a>
@@ -40,12 +49,4 @@ Feel free to reach out via email or check out my projects!
 <!---
 XmM14/XmM14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-       
-
-
-<!---
-XmM14/XmM14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
