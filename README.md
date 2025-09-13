@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Zemam👋</h1>
 
 ## 📩 Email 
- > Personal : <wzfnafis@gmail.com>
+ > Educational : <wasef35-667@diu.edu.bd> &nbsp;
  > Official : <110downingstreet@gmail.com>
 
 ---
