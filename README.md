@@ -2,7 +2,7 @@
 
 ## 📩 Email 
  > Educational : <wasef35-667@diu.edu.bd> &nbsp;
- > Official : <110downingstreet@gmail.com>
+ > Official : <110downingstreet@gmail.com> &nbsp;
 
 ---
 
