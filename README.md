@@ -28,6 +28,7 @@
 ![Zemam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XmM14&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XmM14&layout=compact&theme=radical)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=XmM14&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XmM14&theme=radical)
 ---
 
 ## 🤝 Let's Connect
