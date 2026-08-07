@@ -1,86 +1,88 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I'm%20Zemam&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=260&section=header&text=Wasef%20Zemam&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Aspiring%20SOC%20Analyst%20%7C%20Defensive%20Security%20Focused&descAlignY=58" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst;Defensive+Security+Learner;Detection+%7C+Monitoring+%7C+Incident+Response" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=760&lines=Defensive+Security+%7C+Blue+Team+Mindset;SIEM+%7C+Log+Analysis+%7C+Incident+Triage;Building+Security+Discipline%2C+One+Day+at+a+Time" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=XmM14&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=XmM14&color=16a34a&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛡️ Professional Summary
 
-- 🛡️ Aspiring **SOC Analyst** focused on **defensive security** as a strong entry point into cybersecurity.
-- 🔎 Building skills in **threat detection, log analysis, SIEM workflows, incident triage, and response fundamentals**.
-- 🧠 Practicing **network and endpoint monitoring**, IOC-based investigation, and security-minded troubleshooting.
-- ⚙️ Strong backend engineering foundation with modern API-driven systems and production-oriented tooling.
-- 🌱 Continuously learning through hands-on labs, practical projects, and security research.
+I’m an aspiring **SOC Analyst** with a strong focus on **defensive security operations**.
+My current path is centered on becoming job-ready for Blue Team roles through practical, hands-on skill building in:
 
-## 🎯 Current Focus
+- **Threat detection & monitoring**
+- **Log investigation & alert triage**
+- **Incident response fundamentals**
+- **System hardening & secure operations**
 
-- Defensive Security Operations
-- SOC Playbooks & Alert Triage
-- Threat Hunting Fundamentals
-- Vulnerability Assessment & Hardening
-- Linux + Scripting for Security Automation
+I combine a security-first mindset with backend engineering discipline to analyze problems clearly, document findings, and respond with structure.
 
-## 🛠️ Tech Stack & Tools
+## 🎯 Current Focus (SOC Readiness)
+
+- Building repeatable **alert triage workflows**
+- Practicing **IOC-driven investigations**
+- Improving **Linux-based security operations** and shell automation
+- Strengthening **network fundamentals** for threat analysis
+- Writing concise, actionable **incident notes/reports**
+
+## ⚙️ Core Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Updated to reflect your current stack direction, without exposing project details -->
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,redis,docker,nginx,linux,bash,git,github,html,css,js&perline=14" alt="Skill Icons"/>
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres,redis,docker,nginx,linux,bash,git,github,html,css,js,python&perline=15" alt="Core Stack"/>
   </a>
 </div>
 
-## 🔐 Security Tooling (Learning & Practice)
+## 🔐 Security Toolkit (Learning & Practice)
+
+- Log analysis and detection thinking (SIEM-aligned workflows)
+- Endpoint and network visibility mindset
+- Vulnerability awareness and baseline hardening practices
+- Scripting for repetitive security tasks and investigation support
+
+## ✅ What I Can Contribute from Day 1
+
+- Structured and disciplined approach to security operations tasks
+- Clear communication for technical findings and escalation notes
+- Consistent learning velocity with practical lab implementation
+- Strong collaboration mindset for SOC, SecOps, and engineering teams
+
+## 📚 Certification Roadmap
+
+- CompTIA Security+ (Foundational Security)
+- Microsoft SC-200 (Security Operations Analyst)
+- Blue Team Level 1 (BTL1)
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kali,git,github" alt="Security Learning Tools" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XmM14&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmM14&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%" alt="Top Languages" />
 </div>
 
-- SIEM concepts, alert lifecycle, and incident documentation
-- Secure configuration mindset and system hardening basics
-- Recon, analysis, and defensive validation practices in lab environments
-
-## 📌 Featured Work
-
-> Selected work is available upon request.  
-> I’m currently prioritizing skill depth, security-focused engineering, and practical SOC readiness.
-
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-  <!-- Stable cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=XmM14&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XmM14&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Keep streak as optional visual; if it fails occasionally, profile still looks complete -->
-  <img src="https://streak-stats.demolab.com?user=XmM14&theme=tokyonight" width="60%" alt="GitHub Streak Stats" />
-</div>
+> Note: If external stat cards are temporarily unavailable, GitHub’s native contribution graph on this profile remains the source of truth.
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m open to collaboration, internships, and entry-level opportunities in **SOC / Blue Team / Defensive Security** roles.
+I’m open to **internships, entry-level SOC roles, Blue Team opportunities, and security collaborations**.
 
 📫 **Email**
 - Educational: `wasef35-667@diu.edu.bd`
 - Official: `110downingstreet@gmail.com`
 
 <div align="center">
-  <i>"Learning to fly — with discipline, defense, and consistency."</i>
+  <i>"Discipline in defense, consistency in growth."</i>
 </div>
 
 <!--
